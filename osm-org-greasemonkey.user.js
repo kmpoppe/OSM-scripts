@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        Additional Links for the openstreetmap.org-sidebar
+// @name        Additional Links for openstreetmap.org website with Greasemonkry
 // @description This script adds links to OSM Deep History for Nodes, Ways and Relations, OSMCha for Changesets as well as KartaView and Mapillary in the primary navigation when displayed on openstreetmap.org.
 // @version     10
 // @grant       none
